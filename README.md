@@ -2,13 +2,21 @@
 ## 1. CLI (5%)
 Q1. What is CLI?
 Q2. What is the advantage/disadvantage of CLI?
+<br />
 Q3. Which do you prefer, CLI or GUI (Graphical User Interface)? Why?
+<br />
 Q4. Which command to check your current directory?
+<br />
 Q5. Which command to create a new folder/directory?
+<br />
 Q6. Which command to create a new file?
+<br />
 Q7. You are in Desktop folder, which command to make a new directory name coderschool and navigate inside it?
+<br />
 Q8. Which command to delete a file?
+<br />
 Q9. Which command to delete a not-empty folder?
+<br />
 Q10. What does this command do?
 `
 echo "# test" >> README.md
@@ -49,19 +57,27 @@ Q15. Which command to initialize a git repo in local?
 This HTML code for Q16, 17 and 18.
 
 Q16. Inside head tag, what does first meta tag mean?
+<br />
 Q17. Inside head tag, what does second meta tag mean?
+<br />
 Q18. Inside head tag, what is wrong with link tag?
+<br />
 Q19. List some tags that do not have closing tag?
+<br />
 Q20. Give some contexts of using span tag?
+<br />
 Q21. Give 1 example of creating a hyperlink by a tag in html? (answer with HTML code)
+<br />
 Q22. Give 1 example of inserting a picture in html? (answer with HTML code)
+<br />
 Q22. Give 1 example of creating an email link in html? (answer with HTML code)
+<br />
 Q23. Create a form similar to the below picture? (answer with HTML code)
-
+<br />
 Q24. Create a form with checkboxes similar to the below picture? (answer with HTML code)
-
+<br />
 Q25. How to add a YouTube video to html? (answer with HTML code)
-
+<br />
 ## 4. CSS (10%)
 Q26. Explain box model elements.
 Q27. The value in inch of 1 px?
