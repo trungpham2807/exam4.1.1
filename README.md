@@ -22,26 +22,39 @@ Q10. What does this command do?
 echo "# test" >> README.md
 `
 ## 2. Git/Github (5%)
+<br />
+
 Q11. What does . mean in this command:
 `
 git add .
 `
+<br />
+
 Q12. What does -m mean, is it OK without -m in this command:
 `
 git commit -m "first commit"
 `
+<br />
+
 Q13. What does -M mean in this command:
 `
 git branch -M main
 `
+<br />
+
 Q14. What do origin and main mean in these commands:
 `
 git remote add origin https://github.com/<acc_name>/<repo_name>.git
 git push -u origin main
 `
+<br />
+
 Q15. Which command to initialize a git repo in local?
+<br />
 
 ## 3.HTML (10%)
+<br />
+
 `
 <head>
   <meta charset="UTF-8" />
@@ -80,16 +93,38 @@ Q25. How to add a YouTube video to html? (answer with HTML code)
 <br />
 ## 4. CSS (10%)
 Q26. Explain box model elements.
+<br />
+
 Q27. The value in inch of 1 px?
+<br />
+
 Q28. What is vw/vh?
+<br />
+
 Q29. List all values of position property? Which one is default value?
+<br />
+
 Q30. List all values of flex-direction property? Which one is default value?
+<br />
+
 Q31. List all values of justify-content property? Which one is default value?
+<br />
+
 Q32. List all values of align-items property? Which one is default value?
+<br />
+
 Q33. List all values of align-content property? Which one is default value?
+<br />
+
 Q34. List all values of flex-wrap property? Which one is default value?
+<br />
+
 Q35. The different between space-between and space-around in align-content property?
+<br />
+
 Q36. Create a box similar to the picture below? (answer with HTML + CSS code)
+<br />
+
 
 
 ## 5. Basic JavaScript (10%)
